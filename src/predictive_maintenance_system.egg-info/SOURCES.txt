@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/data_preprocessing/__init__.py
+src/data_preprocessing/preprocessing.py
+src/edge_deployment/__init__.py
+src/edge_deployment/edge_deployment.py
+src/model_training/__init__.py
+src/model_training/model_training.py
+src/monitoring/__init__.py
+src/monitoring/monitoring_retraining.py
+src/predictive_maintenance_system.egg-info/PKG-INFO
+src/predictive_maintenance_system.egg-info/SOURCES.txt
+src/predictive_maintenance_system.egg-info/dependency_links.txt
+src/predictive_maintenance_system.egg-info/top_level.txt
+src/real_time_inference/__init__.py
+src/real_time_inference/real_time_inference.py

@@ -20,3 +20,10 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+.idea
+.gitignore
+requirements.txt
+note.txt
+README.md
+pyproject.toml
+venv_py39
