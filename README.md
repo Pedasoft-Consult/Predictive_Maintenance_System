@@ -63,7 +63,7 @@ The system consists of six main components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/predictive-maintenance-system.git
+   git clone https://github.com/Pedasoft-Consult/predictive-maintenance-system.git
    cd predictive-maintenance-system
    ```
 
@@ -76,7 +76,7 @@ The system consists of six main components:
    ```bash
    mkdir -p data/raw
    # Download and place the dataset in the data/raw directory
-   # Dataset available at: https://data.nasa.gov/dataset/CMAPSS-Jet-Engine-Simulated-Data/ff5v-kuh6
+   # Dataset available at: https://data.nasa.gov/dataset/cmapss-jet-engine-simulated-data
    ```
 
 ## 🚀 Usage
