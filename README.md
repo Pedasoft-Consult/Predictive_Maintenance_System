@@ -76,7 +76,7 @@ The system consists of six main components:
    ```bash
    mkdir -p data/raw
    # Download and place the dataset in the data/raw directory
-   # Dataset available at: https://data.nasa.gov/dataset/cmapss-jet-engine-simulated-data
+   # Dataset available at: https://data.nasa.gov/dataset/CMAPSS-Jet-Engine-Simulated-Data/ff5v-kuh6
    ```
 
 ## 🚀 Usage
@@ -253,7 +253,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📚 References
 
-- NASA Turbofan Engine Degradation Simulation Dataset: https://data.nasa.gov/dataset/CMAPSS-Jet-Engine-Simulated-Data/ff5v-kuh6
+- NASA Turbofan Engine Degradation Simulation Dataset: https://data.nasa.gov/dataset/cmapss-jet-engine-simulated-data
 - TensorFlow Lite: https://www.tensorflow.org/lite
 - ONNX: https://onnx.ai/
 - XGBoost: https://xgboost.readthedocs.io/
