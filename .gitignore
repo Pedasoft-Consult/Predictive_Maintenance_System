@@ -27,3 +27,7 @@ note.txt
 README.md
 pyproject.toml
 venv_py39
+SOURCES.txt
+PKG-INFO
+data
+predictive_maintenance_system.egg-info

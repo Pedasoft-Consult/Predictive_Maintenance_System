@@ -12,6 +12,7 @@ src/monitoring/monitoring_retraining.py
 src/predictive_maintenance_system.egg-info/PKG-INFO
 src/predictive_maintenance_system.egg-info/SOURCES.txt
 src/predictive_maintenance_system.egg-info/dependency_links.txt
+src/predictive_maintenance_system.egg-info/requires.txt
 src/predictive_maintenance_system.egg-info/top_level.txt
 src/real_time_inference/__init__.py
 src/real_time_inference/real_time_inference.py
